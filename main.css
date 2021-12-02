@@ -1,0 +1,24 @@
+form, .msg { 
+    color: #336; 
+    background: #08e8de;
+    margin:0 40% 0 40%;
+  	width:20%;
+    padding: 7px;
+    border: 1px solid #5e1a1c;
+   }
+.success { 
+    color: #004d00;
+    background: #57ff94;
+    margin:0 40% 0 40%;
+  	width:20%;
+    padding: 7px;
+    border: 1px solid #002e1c;
+   }
+.error { 
+    color: #b50f04;
+    background: #ffbdd3;
+    margin:0 40% 0 40%;
+  	width:20%;
+    padding: 7px;
+    border: 1px solid #6e2e23;
+   }
